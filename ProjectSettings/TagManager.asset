@@ -47,3 +47,9 @@ TagManager:
   - name: Foreground
     uniqueID: 3109914717
     locked: 0
+  - name: Middle
+    uniqueID: 3896876217
+    locked: 0
+  - name: GridBackground
+    uniqueID: 936301571
+    locked: 0
