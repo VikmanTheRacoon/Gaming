@@ -60,8 +60,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\BulletScript.cs" />
     <Compile Include="Assets\CharacterController2D.cs" />
+    <Compile Include="Assets\EnemySpawner.cs" />
     <Compile Include="Assets\PlayerMovment.cs" />
+    <Compile Include="Assets\Weapon.cs" />
     <None Include="Assets\BayatGames\Free Platform Game Assets\Readme.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/stoya/Desktop/unity/GamingGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
